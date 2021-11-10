@@ -1,6 +1,6 @@
 # React-Context-Reducer
 
-[![Release](https://badgen.net/github/release/kifs-react/context-reducer)](https://www.npmjs.com/package/@kifs-react/context-reducer)
+[![Release](https://badgen.net/github/release/kifs-react/context-reducer/main)](https://www.npmjs.com/package/@kifs-react/context-reducer)
 [![Minified](https://badgen.net/bundlephobia/min/@kifs-react/context-reducer)](https://bundlephobia.com/package/@kifs-react/context-reducer)
 [![Minified + zip](https://badgen.net/bundlephobia/minzip/@kifs-react/context-reducer)](https://bundlephobia.com/package/@kifs-react/context-reducer)
 [![Dependencies](https://badgen.net/github/dependents-pkg/kifs-react/context-reducer)](https://bundlephobia.com/package/@kifs-react/context-reducer)
