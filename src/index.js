@@ -12,7 +12,7 @@ export function ReducerProvider({
 }) {
   const [state, dispatch] = useReducer(reducer, initialState, initializer)
 
-  React.createElement(
+  return React.createElement(
     context.Provider,
     { value: [state, dispatch] },
     children
