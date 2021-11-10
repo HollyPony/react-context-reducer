@@ -21,8 +21,6 @@ Features:
 
 ## Usage
 
-`npm i react-rest-api`
-
 ```js
 // ################################
 //
