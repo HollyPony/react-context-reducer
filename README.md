@@ -31,7 +31,7 @@ Features:
 // ################################
 
 
-import { ReducerProvider, } from 'react-context-reducer'
+import { ReducerProvider, } from '@kifs-react/context-reducer'
 
 import { Component } from './Component'
 
@@ -75,7 +75,7 @@ export function App() {
 // ################################
 
 
-import { useReducerProvider } from '../contexts/Reducer'
+import { useReducerProvider } from '@kifs-react/context-reducer'
 
 export function Component() {
   const [appState, appDispatch] = useReducerProvider()
